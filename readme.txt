@@ -2,7 +2,7 @@
 Contributors: 
 Donate link: http://joeldentici.tk/donation/
 Tags: share link facebook status update updater profile timeline
-Requires at least: 3.3
+Requires at least: 3.2
 Tested up to: 3.4.1
 Stable tag: 2.0
 License: GPLv2 or later
